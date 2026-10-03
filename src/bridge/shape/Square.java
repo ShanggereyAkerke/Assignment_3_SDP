@@ -1,4 +1,4 @@
-package bridge.renderer.bridge.shape;
+package bridge.shape;
 
 import bridge.renderer.Renderer;
 
